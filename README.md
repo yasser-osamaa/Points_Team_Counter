@@ -5,7 +5,7 @@ Simple Counter using flutter
 ## Widget i used to 
 
 <b>
-  used StatefulWidget to make counter change every click of button action <br> <br>
+  used StatefulWidget to make screen changed every click not static <br> <br>
   used column and row widget for design screen  <br> <br>
   Used ElevatedButton Widget with styleFrom to make style of this button <br> <br>
   Used RoundedRectangleBorder Widget to make button has a good shape with BorderRadius <br><br>
