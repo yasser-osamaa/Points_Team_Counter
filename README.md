@@ -1,16 +1,19 @@
-# basketball_counter
+# Team Points Count
 
-A new Flutter project.
+Simple Counter using flutter 
 
-## Getting Started
+## Widget i used to 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
+<b>
+  used StatefulWidget to make counter change every click of button action <br> <br>
+  used column and row widget for design screen  <br> <br>
+  Used ElevatedButton Widget with styleFrom to make style of this button <br> <br>
+  Used RoundedRectangleBorder Widget to make button has a good shape with BorderRadius <br><br>
+  using Vertical Divider to divide screen to two parts one for team one second for team two <br><br>
+  using sizedBox Widget to make space between widgets <br><br>
+</b>
+<br><br>
+<br><br>
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
