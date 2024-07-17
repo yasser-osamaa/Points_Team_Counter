@@ -1,9 +1,9 @@
 # Team Points Count
-<br><br>
+
 Simple Counter using flutter 
 
 ## Widget i used to 
-<br><br>
+
 <b>
   used StatefulWidget to make screen changed every click not static <br> <br>
   used column and row widget for design screen  <br> <br>
@@ -13,7 +13,7 @@ Simple Counter using flutter
   using sizedBox Widget to make space between widgets <br><br>
 </b>
 <br><br>
-<br><br>
+
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
